@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "668529384306",
+    "project_id": "afums-b4be8",
+    "storage_bucket": "afums-b4be8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668529384306:android:c18350bbca4450fb15dbeb",
+        "android_client_info": {
+          "package_name": "com.example.school_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668529384306-aufd1nej9e9i278ub2ksgt6gm3p1p23n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7qy2nuPytVp9f7b3WYQtegEIZXTvUH6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668529384306-aufd1nej9e9i278ub2ksgt6gm3p1p23n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668529384306:android:8bcff74ed41cabcd15dbeb",
+        "android_client_info": {
+          "package_name": "com.university.afums"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668529384306-aufd1nej9e9i278ub2ksgt6gm3p1p23n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7qy2nuPytVp9f7b3WYQtegEIZXTvUH6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668529384306-aufd1nej9e9i278ub2ksgt6gm3p1p23n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
